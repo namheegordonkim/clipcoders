@@ -1,4 +1,4 @@
-# CLIPCoder: Simplified Encoder-Decoder Objects for CLIP-Based Applications
+# CLIPCoders: Simplified Encoder-Decoder Objects for CLIP-Based Applications
 
 ## Acknowledgments
 
